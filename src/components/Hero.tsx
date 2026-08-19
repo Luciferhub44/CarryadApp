@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import Spiral from './Spiral'
 
-const TICKER = ['Brand Campaigns', 'Film & Motion', 'OOH & Transit', 'Social Systems', 'Sound & Radio', 'Experiential']
+const TICKER = ['Brand Campaigns', 'Media & Motion', 'Social Systems', 'Sound & Visuals', 'Identity & Design', 'Experiential']
 
 export default function Hero() {
   const [ready, setReady] = useState(false)
@@ -99,9 +99,9 @@ export default function Hero() {
           style={{ transitionTimingFunction: 'var(--ease-settle)' }}
         >
           {[
-            ['120+', 'campaigns shipped'],
-            ['14', 'industry awards'],
-            ['6', 'time zones covered'],
+            ['120+', 'Campaigns Shipped'],
+            ['30+', 'Local Businesses Served'],
+            ['28+', 'Services Offered'],
           ].map(([n, label]) => (
             <div key={label}>
               <div className="font-grotesk text-3xl font-bold tracking-tight text-[#2B2620] md:text-4xl">{n}</div>
