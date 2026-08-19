@@ -32,7 +32,7 @@ export default function Hero() {
             <span className="relative inline-flex h-2.5 w-2.5 rounded-full bg-[#B5301F]" />
           </span>
           <span className="font-grotesk text-sm font-medium uppercase tracking-[0.22em] text-[#8C8172]">
-            Independent creative agency · Est. 2023 · Poland
+            Independent creative agency · Poland
           </span>
         </div>
 

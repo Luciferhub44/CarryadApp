@@ -8,15 +8,10 @@ const SERVICES = [
     tags: ['Strategy', 'Concept', 'Art direction'],
   },
   {
-    title: 'Film & Motion',
+    title: 'Media & Motion',
     desc: 'From 90-second anthems to six-second loops. Directed, shot, and cut in-house.',
     tags: ['Direction', 'Edit', 'Sound design'],
-  },
-  {
-    title: 'OOH & Transit',
-    desc: 'Hand-painted walls, station takeovers, wrapped fleets. The street is still the best screen.',
-    tags: ['Murals', 'Takeovers', 'Fleet'],
-  },
+  },  
   {
     title: 'Social Systems',
     desc: 'Not a content calendar. A story engine. Formats your team can run without us.',
@@ -44,7 +39,7 @@ export default function Services() {
           What we carry
         </span>
         <h2 className="mt-4 max-w-3xl font-grotesk text-4xl font-bold leading-[1.02] tracking-[-0.03em] text-[#2B2620] md:text-6xl">
-          Six ways in,
+          Five ways in,
           <span className="font-lora font-normal italic text-[#8C8172]"> one story out.</span>
         </h2>
       </Reveal>

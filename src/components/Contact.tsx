@@ -25,7 +25,7 @@ export default function Contact() {
 
         <Reveal delay={200}>
           <p className="mx-auto mt-8 max-w-xl text-lg leading-relaxed text-[#F1EAD9]/80">
-            One email, one call, one sketch. Tell us where your story needs to go,
+            One email, one call, one plan. Tell us where your story needs to go,
             and we will figure out how it travels.
           </p>
           <div className="mt-12 flex flex-col items-center justify-center gap-5 sm:flex-row">

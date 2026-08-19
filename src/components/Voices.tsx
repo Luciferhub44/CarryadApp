@@ -5,20 +5,20 @@ const QUOTES = [
   {
     quote:
       'CarryAd painted our story on forty city blocks and somehow it still felt like a letter written to one person.',
-    name: 'Mara Ellison',
-    role: 'CMO, Meridian Transit',
+    name: 'Pawel Szczesniak',
+    role: 'Manager, Morale Cafe',
   },
   {
     quote:
       'They killed three of our favorite ideas and were right every time. The one that survived sold out in a day and a half.',
-    name: 'Juno Park',
-    role: 'Founder, Northfall Records',
+    name: 'Paul Senamie',
+    role: 'Founder, Mothrland Atelier',
   },
   {
     quote:
       'Eleven people out-delivered the eighty-person network agency we used before. I stopped asking how.',
-    name: 'Tomas Berg',
-    role: 'Brand Director, Ridgeline Supply',
+    name: 'Marek Siedlecki',
+    role: 'Brand Director, Urban Mosaic',
   },
 ]
 

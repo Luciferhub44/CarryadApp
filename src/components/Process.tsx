@@ -8,13 +8,13 @@ const STEPS = [
   },
   {
     week: 'Week 3-5',
-    title: 'Sketch',
+    title: 'Planning',
     body: 'Three territories, drawn by hand first. You react to feeling, not to a deck of stock photos.',
   },
   {
     week: 'Week 6-9',
-    title: 'Build',
-    body: 'The chosen story becomes a system: film, OOH, social, sound. Everything shares one spine.',
+    title: 'Production',
+    body: 'The chosen story becomes a system: Media, Motion, Social, Sound and Visuals. Everything shares one spine.',
   },
   {
     week: 'Week 10+',

@@ -40,8 +40,8 @@ export default function Studio() {
             </Reveal>
             <Reveal delay={150}>
               <p className="mt-8 max-w-xl text-lg leading-relaxed text-[#F1EAD9]/70">
-                CarryAd is eleven strategists, writers, designers, and filmmakers based in
-                Poland, working with brands on four continents. We stay deliberately small: the
+                CarryAd is three strategists, writers, designers, and Media Experts based in
+                Poland, working with brands on three continents. We stay deliberately small: the
                 people in your first meeting are the people who ship your campaign.
               </p>
               <p className="mt-5 max-w-xl font-lora text-xl italic leading-relaxed text-[#F1EAD9]/85">
@@ -52,8 +52,8 @@ export default function Studio() {
             <Reveal delay={250}>
               <div className="mt-12 grid grid-cols-3 gap-6 border-t border-[#F1EAD9]/15 pt-8">
                 {[
-                  ['11', 'humans, no layers'],
-                  ['2023', 'est. in Poland'],
+                  ['3', 'humans, no layers'],
+                  ['2026', 'est. in Poland'],
                   ['0', 'account managers'],
                 ].map(([n, label]) => (
                   <div key={label}>

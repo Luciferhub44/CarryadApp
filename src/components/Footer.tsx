@@ -33,9 +33,9 @@ export default function Footer() {
               Studio
             </h4>
             <ul className="mt-5 space-y-3">
-              <li className="text-[#F1EAD9]/75">Warsaw, Poland</li>
+              <li className="text-[#F1EAD9]/75">Poznań, Poland</li>
               <li className="text-[#F1EAD9]/75">Working worldwide</li>
-              <li className="text-[#F1EAD9]/75">Est. 2023</li>
+              <li className="text-[#F1EAD9]/75">Est. 2026</li>
             </ul>
           </div>
 
